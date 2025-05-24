@@ -25,7 +25,7 @@ The core of this solver lies in its unique "coherence kernel" - a scoring functi
 
 The intuition behind using prime-related metrics is to explore whether number-theoretic properties of permutation encodings can act as effective heuristics for guiding the search towards more structured and ultimately shorter superpermutations. This approach has successfully reproduced one of the known minimal superpermutations of length 153 for n=5. This result was originally found by Ben Chaffin in March 2014 and is documented by Nathaniel Johnston [here](https://www.njohnston.ca/superperm5.txt).
 
-    *   123451234152341253412354123145231425314235142315423124531243512431524312543121345213425134215342135421324513241532413524132541321453214352143251432154321
+    123451234152341253412354123145231425314235142315423124531243512431524312543121345213425134215342135421324513241532413524132541321453214352143251432154321
 
 This demonstrates the capability of the "Prime-Coherence" heuristic to guide the search towards optimal solutions for certain problem instances.
 
